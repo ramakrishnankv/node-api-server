@@ -2,6 +2,13 @@
 
 At the end of this, one should be able to create a simple Node server that sends responses against specific requests. The app should be able to run with a custom host name using https protocol.
 
+To run this code in your local;
+ - do git clone https://github.com/ramakrishnankv/node-api-server.git
+ - run npm install
+ - run npm start
+ - once started hit https://api.ramki.com.
+ - routes '/', '/user'. Any other routes will take to error page.
+
 Note: The describptions are based on Windows Operating System, alternative approaches for Mac or Linux are not discussed.
 
 ### Table of Contents;
